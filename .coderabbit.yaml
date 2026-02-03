@@ -1,0 +1,11 @@
+# .coderabbit.yaml configuration
+language: "en-US"
+reviews:
+  profile: "chill" # Options: chill, assertive, comprehensive
+  auto_review:
+    enabled: true
+    drafts: false
+  tools:
+    browser: true # Helpful for your HTML/JS calculator
+chat:
+  enabled: true
