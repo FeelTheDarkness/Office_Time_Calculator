@@ -1,0 +1,8 @@
+{
+  "name": "office-time-calculator",
+  "version": "1.0.0",
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-plugin-html": "^7.1.0"
+  }
+}
